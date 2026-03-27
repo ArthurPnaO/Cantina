@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\cursos\\desafioDotnet\\Cantina\\Teste.csproj": {}
+    "D:\\Documentos\\Codigo\\Cantina\\Teste.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\cursos\\desafioDotnet\\Cantina\\Teste.csproj": {
+    "D:\\Documentos\\Codigo\\Cantina\\Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\cursos\\desafioDotnet\\Cantina\\Teste.csproj",
+        "projectUniqueName": "D:\\Documentos\\Codigo\\Cantina\\Teste.csproj",
         "projectName": "Teste",
-        "projectPath": "D:\\Documentos\\cursos\\desafioDotnet\\Cantina\\Teste.csproj",
+        "projectPath": "D:\\Documentos\\Codigo\\Cantina\\Teste.csproj",
         "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\cursos\\desafioDotnet\\Cantina\\obj\\",
+        "outputPath": "D:\\Documentos\\Codigo\\Cantina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config"
