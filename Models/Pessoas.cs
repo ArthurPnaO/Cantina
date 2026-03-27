@@ -51,6 +51,10 @@ namespace Cantina.Models
 
         public decimal Saldo { get; set; }
 
+        private void AdicionarNome(String nome)
+        {
+            ListaPessoas
+        }
         private int ColetarProximoIdValido(){return 0;}
     }
 }

@@ -24,4 +24,25 @@ foreach(Produtos index in ListaProdutos)
     Console.WriteLine($"{index.Nome}: {index.Preco:c}");
 }
 
+    switch (Console.ReadLine())
+    {
+        case "1":
+            es.AdicionarVeiculo();
+            break;
 
+        case "2":
+            es.RemoverVeiculo();
+            break;
+
+        case "3":
+            es.ListarVeiculos();
+            break;
+
+        case "4":
+            exibirMenu = false;
+            break;
+
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
